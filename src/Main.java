@@ -16,6 +16,7 @@ public class Main {
 
                 check = true;
             }
+            //исправила
             else if (cast>0 && check) {
                 numCount++;
                 allNum += cast;
